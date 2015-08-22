@@ -1,16 +1,16 @@
 //
-//  Match.m
+//  RoadTeam.m
 //  TournamentSwiftMaker
 //
-//  Created by Dan Hoang on 8/16/15.
+//  Created by Dan Hoang on 8/22/15.
 //  Copyright (c) 2015 Dan Hoang. All rights reserved.
 //
 
-#import "Match.h"
+#import "RoadTeam.h"
 
-@implementation Match
+@implementation RoadTeam
 
-- (instancetype)init
+- (instancetype)initWithTeamId:(int)d_id
 {
     self = [super init];
     if (self) {

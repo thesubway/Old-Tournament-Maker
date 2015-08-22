@@ -6,6 +6,8 @@
 //  Copyright (c) 2015 Dan Hoang. All rights reserved.
 //
 
+//there is a limit of 1000 teams per league (id's are 0-999).
+
 #import "ViewController.h"
 
 @interface ViewController ()

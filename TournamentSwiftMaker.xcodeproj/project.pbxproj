@@ -18,6 +18,8 @@
 		27A07CBD1B8118500050B78E /* Match.m in Sources */ = {isa = PBXBuildFile; fileRef = 27A07CBC1B8118500050B78E /* Match.m */; };
 		27A07CBF1B8118EF0050B78E /* Match.xib in Resources */ = {isa = PBXBuildFile; fileRef = 27A07CBE1B8118EF0050B78E /* Match.xib */; };
 		27A07CC21B8172180050B78E /* MatchView.m in Sources */ = {isa = PBXBuildFile; fileRef = 27A07CC11B8172180050B78E /* MatchView.m */; };
+		27A07CC81B88F5E40050B78E /* HomeTeam.m in Sources */ = {isa = PBXBuildFile; fileRef = 27A07CC71B88F5E40050B78E /* HomeTeam.m */; };
+		27A07CCB1B88F6230050B78E /* RoadTeam.m in Sources */ = {isa = PBXBuildFile; fileRef = 27A07CCA1B88F6230050B78E /* RoadTeam.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,10 @@
 		27A07CBE1B8118EF0050B78E /* Match.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Match.xib; sourceTree = "<group>"; };
 		27A07CC01B8172180050B78E /* MatchView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MatchView.h; sourceTree = "<group>"; };
 		27A07CC11B8172180050B78E /* MatchView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MatchView.m; sourceTree = "<group>"; };
+		27A07CC61B88F5E40050B78E /* HomeTeam.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeTeam.h; sourceTree = "<group>"; };
+		27A07CC71B88F5E40050B78E /* HomeTeam.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeTeam.m; sourceTree = "<group>"; };
+		27A07CC91B88F6230050B78E /* RoadTeam.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RoadTeam.h; sourceTree = "<group>"; };
+		27A07CCA1B88F6230050B78E /* RoadTeam.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RoadTeam.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +155,10 @@
 				27A07CBE1B8118EF0050B78E /* Match.xib */,
 				27A07CC01B8172180050B78E /* MatchView.h */,
 				27A07CC11B8172180050B78E /* MatchView.m */,
+				27A07CC61B88F5E40050B78E /* HomeTeam.h */,
+				27A07CC71B88F5E40050B78E /* HomeTeam.m */,
+				27A07CC91B88F6230050B78E /* RoadTeam.h */,
+				27A07CCA1B88F6230050B78E /* RoadTeam.m */,
 			);
 			name = Match;
 			sourceTree = "<group>";
@@ -256,8 +266,10 @@
 			files = (
 				27A07CB81B8104710050B78E /* Team.m in Sources */,
 				27A07C991B81031F0050B78E /* ViewController.m in Sources */,
+				27A07CCB1B88F6230050B78E /* RoadTeam.m in Sources */,
 				27A07CC21B8172180050B78E /* MatchView.m in Sources */,
 				27A07C961B81031F0050B78E /* AppDelegate.m in Sources */,
+				27A07CC81B88F5E40050B78E /* HomeTeam.m in Sources */,
 				27A07CBD1B8118500050B78E /* Match.m in Sources */,
 				27A07C931B81031F0050B78E /* main.m in Sources */,
 			);

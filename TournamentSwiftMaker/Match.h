@@ -7,6 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "RoadTeam.h"
+#import "HomeTeam.h"
 
 @interface Match : NSObject
 

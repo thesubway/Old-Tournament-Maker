@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>377D150A-F664-494F-8573-D35E2AF39E81</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>58DD165F0D0531687B97353264E25AFF5728ACC8</key>
+		<string>github.com:thesubway/Tournament-Maker.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TournamentSwiftMaker.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>58DD165F0D0531687B97353264E25AFF5728ACC8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:thesubway/Tournament-Maker.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>58DD165F0D0531687B97353264E25AFF5728ACC8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>58DD165F0D0531687B97353264E25AFF5728ACC8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TournamentSwiftMaker</string>
+		</dict>
+	</array>
+</dict>
+</plist>
